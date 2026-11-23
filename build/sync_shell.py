@@ -35,12 +35,12 @@ s = re.sub(r'(<link rel="stylesheet" href="themes/index\.css(\?v=[^"]*)?">)', la
 s = s.replace('<div class="fmtsw" data-fmt="edison">', '<div class="fmtsw" data-fmt="goat">')
 s = re.sub(r'(<button type="button" class="bfmt" id="fmtbtn"[^>]*>)Edison', r'\1Goat', s, count=1)
 
-# Section menus: Goat's pages (no Library, Rulings, Errata, Know your opponent or duel yet).
+# Section menus: Goat's pages (no Library, Rulings, Errata or duel yet; Know your opponent since 2026-11-23).
 menus = '''  <nav class="nav" id="nav" aria-label="Sections">
     <a href="./" data-v="home">Home</a>
     <div class="ndrop"><button type="button" class="ndrop-btn" data-menu="m-learn" data-group="course lesson flashcards rules glossary" aria-haspopup="true" aria-expanded="false">Learn ▾</button></div>
     <div class="ndrop"><button type="button" class="ndrop-btn" data-menu="m-cards" data-group="cards staples banlist" aria-haspopup="true" aria-expanded="false">Cards ▾</button></div>
-    <div class="ndrop"><button type="button" class="ndrop-btn" data-menu="m-decks" data-group="deck builder" aria-haspopup="true" aria-expanded="false">Decks ▾</button></div>
+    <div class="ndrop"><button type="button" class="ndrop-btn" data-menu="m-decks" data-group="deck builder opponents" aria-haspopup="true" aria-expanded="false">Decks ▾</button></div>
     <div class="ndrop"><button type="button" class="ndrop-btn" data-menu="m-play" data-group="simulator" aria-haspopup="true" aria-expanded="false">Play ▾</button></div>
   </nav>
   <div class="ndrop-menu" id="m-learn" role="menu" aria-label="Learn">
@@ -57,6 +57,7 @@ menus = '''  <nav class="nav" id="nav" aria-label="Sections">
   <div class="ndrop-menu" id="m-decks" role="menu" aria-label="Decks">
     <a href="decks/" role="menuitem">All Decks<small>Top and most played decks</small></a>
     <a href="builder/" role="menuitem">Deck builder<small>Build, check and export</small></a>
+    <a href="opponents/" role="menuitem">Know your opponent<small>Every deck at a glance, and matchups</small></a>
   </div>
   <div class="ndrop-menu" id="m-play" role="menu" aria-label="Play">
     <a href="simulator/" role="menuitem">Practice board<small>Set up any field and try plays</small></a>
@@ -72,6 +73,7 @@ scripts = '''<!-- Card data from YGOPRODeck (the Goat pool and banlist, checked 
 <script src="data/lessons-101.js"></script>
 <script src="data/lessons-201.js"></script>
 <script src="data/rules.js"></script>
+<script src="data/opponents.js"></script>
 '''
 sub(r'<!-- Card data, rulings.*?(?=<script src="js/app\.js)', scripts, re.S)
 assert 'edison' not in re.sub(r'data-fmt="edison"|href="/edison/"|<b>Edison</b>', '', s).lower().replace('edisonformat', ''), 'Edison text left in the Goat shell'

@@ -53,6 +53,7 @@ try {
   for (let i = 0; i < 100; i++) { await new Promise(r => setTimeout(r, 200)); try { if (await ev(`typeof go==='function'&&!!document.getElementById('app').innerHTML`)) break; } catch {} }
   const keys = await ev(`[...PAGEKEYS.filter(k=>['home','course','flashcards','glossary','rules','simulator','cards','decks','builder','staples','banlist'].includes(k)), ...ALL.map(l=>'lesson-'+l.n), ...DECKS.map(d=>'deck-'+encodeURIComponent(d.name)),
     ...(window.GOAT_RULES?GOAT_RULES.sections.map(x=>'rules-'+x.id):[]),
+    ...(window.GOAT_OPPONENTS&&GOAT_OPPONENTS.decks.length?['opponents',...GOAT_OPPONENTS.decks.map(d=>'opponents-'+d.id)]:[]),
     ...DB.filter(r=>r.k!=='token').map(r=>'card-'+r.id)]`);
   // Remove last run's pages, then write this run's.
   const old = fs.existsSync(MANIFEST) ? JSON.parse(fs.readFileSync(MANIFEST, 'utf8')) : [];
