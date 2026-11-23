@@ -28,7 +28,7 @@ sub(r'<base href="[^"]*">', '<base href="/goat/">')
 sub(r'<title>[^<]*</title>', '<title>Learn Goat Format: Yu-Gi-Oh! as It Was in 2005 | Learn Retro</title>')
 sub(r'<meta name="description" content="[^"]*">', '<meta name="description" content="A free course for Goat format Yu-Gi-Oh!: lessons from your first summon to tournament decks, every Goat-legal card, deck lists and the April 2005 banlist.">')
 sub(r'<link rel="canonical" href="[^"]*">', '<link rel="canonical" href="https://learnretro.com/goat/">')
-sub(r'<!-- Public since[^\n]*-->', '<!-- Not launched yet: keep search engines out until Zack opens the Goat site. -->\n<meta name="robots" content="noindex">')
+sub(r'<!-- Public since[^\n]*-->', '<!-- Public since 2026-11-23 (Zack: launch Goat with the move to learnretro.com/goat/). -->')
 s = s.replace("localStorage.getItem('edison:theme')", "localStorage.getItem('goat:theme')")
 s = re.sub(r'(<link rel="stylesheet" href="themes/index\.css(\?v=[^"]*)?">)', lambda m: m.group(1) + f'\n<link rel="stylesheet" href="themes/goat.css{m.group(2) or ""}">', s, count=1)
 # The format pill: Goat is the current format.
