@@ -1,0 +1,312 @@
+# Deck lists from goatformat.com deck guides, read 2026-11-23. One block per deck:
+# @ name | tier | credit | source URL | note
+# then "N Card Name" lines. Fusion Deck lines start with "F ". build_decks.py drops any list that doesn't add up.
+@ Goat Control | A | Lolmarcus, 7th place, Goat Format World Championship 2020 | https://www.goatformat.com/goat-control.html | goatformat.com lists no Fusion Deck for this list. Metamorphosis decks keep Thousand-Eyes Restrict there.
+1 Airknight Parshath
+3 Asura Priest
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+1 Chaos Sorcerer
+1 D.D. Warrior Lady
+1 Dark Mimic LV1
+2 Dekoichi the Battlechanted Locomotive
+2 Magician of Faith
+1 Sangan
+1 Sinister Serpent
+2 Tsukuyomi
+3 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+3 Metamorphosis
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+2 Scapegoat
+1 Snatch Steal
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+1 Torrential Tribute
+2 Trap Dustshoot
+@ Chaos Turbo | A | Riccardo Lari (Riclar91), winner, Goat Format World Championship 2020 | https://www.goatformat.com/chaos-turbo.html |
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+2 Chaos Sorcerer
+3 Dekoichi the Battlechanted Locomotive
+3 Gravekeeper's Spy
+1 Kycoo the Ghost Destroyer
+2 Magician of Faith
+2 Mystic Tomato
+2 Night Assailant
+1 Sangan
+1 Sinister Serpent
+3 Thunder Dragon
+3 Book of Moon
+1 Card Destruction
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Snatch Steal
+3 Raigeki Break
+1 Ring of Destruction
+1 Torrential Tribute
+2 Trap Dustshoot
+@ Thunder Dragon Chaos Control | A | Dale Bellido, 2nd place, Goat Format World Championship 2020 | https://www.goatformat.com/chaos-control.html | goatformat.com lists no Fusion Deck for this list. Metamorphosis decks keep Thousand-Eyes Restrict there.
+1 Asura Priest
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+2 Chaos Sorcerer
+2 Dark Mimic LV1
+2 Dekoichi the Battlechanted Locomotive
+2 Magician of Faith
+1 Sangan
+1 Sinister Serpent
+3 Thunder Dragon
+1 Tribe-Infecting Virus
+2 Tsukuyomi
+2 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+3 Metamorphosis
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+2 Scapegoat
+1 Snatch Steal
+1 Dust Tornado
+1 Mirror Force
+1 Raigeki Break
+1 Ring of Destruction
+1 Sakuretsu Armor
+1 Torrential Tribute
+@ Chaos Control | A | A typical Skilled White Magician build | https://www.goatformat.com/chaos-control.html | goatformat.com lists no Fusion Deck for this list. Metamorphosis decks keep Thousand-Eyes Restrict there.
+1 Asura Priest
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+2 Chaos Sorcerer
+1 D.D. Warrior Lady
+1 Dark Mimic LV1
+2 Magical Merchant
+2 Magician of Faith
+1 Sangan
+1 Sinister Serpent
+2 Skilled White Magician
+2 Tsukuyomi
+3 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+3 Metamorphosis
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+3 Scapegoat
+1 Snatch Steal
+2 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+1 Sakuretsu Armor
+1 Torrential Tribute
+@ Warrior | C | Sean Montague, 4th place, Clash of Champions | https://www.goatformat.com/warrior.html |
+1 Black Luster Soldier - Envoy of the Beginning
+3 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+2 Kycoo the Ghost Destroyer
+2 Mystic Swordsman LV2
+1 Ninja Grandmaster Sasuke
+1 Zombyra the Dark
+2 Book of Moon
+1 Delinquent Duo
+1 Enemy Controller
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+1 Call of the Haunted
+1 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+3 Solemn Judgment
+3 Trap Dustshoot
+@ Chaos Warrior | C | Lukaz, winner, Patreon World Championship Qualifier 1, March 2021 | https://www.goatformat.com/warrior.html |
+1 Black Luster Soldier - Envoy of the Beginning
+3 Blade Knight
+1 Breaker the Magical Warrior
+1 Chaos Sorcerer
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+3 Kycoo the Ghost Destroyer
+1 Mystic Swordsman LV2
+1 Ninja Grandmaster Sasuke
+1 Skilled Dark Magician
+1 Tribe-Infecting Virus
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+1 Call of the Haunted
+1 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+3 Solemn Judgment
+1 Torrential Tribute
+3 Trap Dustshoot
+@ Chaos Recruiter | C | A typical list from the guide | https://www.goatformat.com/chaos-recruiter.html |
+2 Asura Priest
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+3 Chaos Sorcerer
+1 D.D. Warrior Lady
+2 Magician of Faith
+2 Mystic Tomato
+2 Newdoria
+1 Sangan
+3 Shining Angel
+2 Tsukuyomi
+2 Book of Moon
+2 Creature Swap
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Snatch Steal
+2 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+1 Torrential Tribute
+3 Trap Dustshoot
+@ Burn | B | A typical list from the guide | https://www.goatformat.com/burn.html |
+3 Big Shield Gardna
+1 Cyber Jar
+3 Dekoichi the Battlechanted Locomotive
+3 Des Koala
+3 Giant Germ
+1 Morphing Jar
+2 Night Assailant
+1 Sangan
+3 Book of Moon
+1 Graceful Charity
+1 Pot of Greed
+1 Ceasefire
+3 Desert Sunlight
+2 Jar of Greed
+3 Just Desserts
+1 Magic Cylinder
+1 Mirror Force
+3 Ojama Trio
+1 Ring of Destruction
+3 Secret Barrel
+@ Lockdown Burn | B | The most common version, from the guide | https://www.goatformat.com/lockdown-burn.html |
+1 Cyber Jar
+3 Des Koala
+3 Lava Golem
+1 Morphing Jar
+1 Sangan
+1 Sinister Serpent
+3 Spirit Reaper
+3 Stealth Bird
+1 Graceful Charity
+2 Level Limit - Area B
+3 Messenger of Peace
+1 Pot of Greed
+1 Swords of Revealing Light
+3 Wave-Motion Cannon
+1 Ceasefire
+2 Gravity Bind
+1 Magic Cylinder
+1 Mirror Force
+3 Nightmare Wheel
+1 Ring of Destruction
+3 Solemn Judgment
+1 Torrential Tribute
+@ Empty Jar | B | One of the most common builds, from the guide | https://www.goatformat.com/empty-jar.html |
+1 Morphing Jar
+1 Cyber Jar
+3 Thunder Dragon
+3 Mystic Tomato
+1 Sangan
+1 Heavy Storm
+3 Mind Control
+2 A Feather of the Phoenix
+3 Book of Moon
+3 Book of Taiyou
+1 Card Destruction
+1 Pot of Greed
+1 Graceful Charity
+1 Premature Burial
+2 Upstart Goblin
+1 Serial Spell
+3 Reload
+3 The Shallow Grave
+3 Spell Reproduction
+3 Giant Trunade
+@ Reasoning Gate | B | Carl Waite, 5th place, Patreon World Championship Qualifier 5, July 2021 | https://www.goatformat.com/reasoning-gate-otk.html |
+1 Black Luster Soldier - Envoy of the Beginning
+1 Blowback Dragon
+2 Chaos Sorcerer
+1 Dark Magician of Chaos
+1 Jinzo
+1 Magical Marionette
+3 Sacred Crane
+1 Brain Control
+1 Card Destruction
+3 Dimension Fusion
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+1 Lightning Vortex
+3 Metamorphosis
+3 Monster Gate
+1 Monster Reincarnation
+1 Pot of Greed
+1 Premature Burial
+3 Reasoning
+3 Scapegoat
+1 Snatch Steal
+1 Call of the Haunted
+1 Ceasefire
+1 Ring of Destruction
+@ Zombie | D | Delinkquent, 1st place, Format Library Championship 17 (2021) | https://www.goatformat.com/zombie.html |
+3 Berserk Gorilla
+3 Giant Rat
+3 Kycoo the Ghost Destroyer
+3 Pyramid Turtle
+3 Ryu Kokki
+1 Breaker the Magical Warrior
+1 Exiled Force
+1 Injection Fairy Lily
+1 Tribe-Infecting Virus
+1 Vampire Lord
+3 Book of Life
+3 Tribute to the Doomed
+2 Creature Swap
+2 Nobleman of Crossout
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+3 Royal Decree
+1 Call of the Haunted
