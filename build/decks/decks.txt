@@ -310,3 +310,1958 @@
 1 Snatch Steal
 3 Royal Decree
 1 Call of the Haunted
+
+# Format Library tournament lists (formatlibrary.com, read 2026-11-24): of the 50 deck types with the most Goat event lists there,
+# the ones not above, each with its best-placing list (newest first on a tie). Tier T; the note gives its number of event lists.
+@ Panda Burn | T | Loker23, 1st place, GFWC 2026 - Last Chance Qualifier 2 | https://formatlibrary.com/decks/86835 | 87 tournament lists of this deck on Format Library.
+1 Big Shield Gardna
+1 Cyber Jar
+2 Des Koala
+1 Exiled Force
+3 Giant Rat
+3 Gyaku-Gire Panda
+1 Injection Fairy Lily
+1 Morphing Jar
+1 Sangan
+2 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+2 Level Limit - Area B
+1 Pot of Greed
+1 Swords of Revealing Light
+1 Ceasefire
+1 Desert Sunlight
+2 Gravity Bind
+3 Just Desserts
+1 Magic Cylinder
+3 Nightmare Wheel
+3 Ojama Trio
+1 Ring of Destruction
+3 Secret Barrel
+F 1 Elemental HERO Flame Wingman
+S 1 Amazoness Archer
+S 1 Breaker the Magical Warrior
+S 1 Cipher Soldier
+S 1 Tribe-Infecting Virus
+S 1 Mind Control
+S 1 Mystical Space Typhoon
+S 1 Mystik Wok
+S 1 Necrovalley
+S 1 Nobleman of Crossout
+S 2 Barrel Behind the Door
+S 1 Mirror Force
+S 1 Sakuretsu Armor
+S 2 Solemn Judgment
+@ Chaos Return | T | Grumplestielzchen, 1st place, Team Goat Format Championship 8 | https://formatlibrary.com/decks/85245 | 76 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+2 Chaos Sorcerer
+1 D.D. Warrior Lady
+3 Dekoichi the Battlechanted Locomotive
+3 Gravekeeper's Spy
+1 Roulette Barrel
+1 Sangan
+3 Shining Angel
+1 Tribe-Infecting Virus
+2 Zaborg the Thunder Monarch
+2 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Snatch Steal
+2 Dust Tornado
+1 Mirror Force
+1 Return from the Different Dimension
+1 Ring of Destruction
+3 Solemn Judgment
+1 Torrential Tribute
+2 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Dark Flare Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 1 Thousand-Eyes Restrict
+F 1 Twin-Headed Thunder Dragon
+S 1 Jowgen the Spiritualist
+S 1 Mobius the Frost Monarch
+S 1 Spirit Reaper
+S 1 Tsukuyomi
+S 3 Mind Control
+S 1 Mystik Wok
+S 1 Smashing Ground
+S 1 Dust Tornado
+S 3 Sakuretsu Armor
+S 1 Trap Dustshoot
+S 1 Xing Zhen Hu
+@ Chaos Warrior Turbo | T | picatron, 1st place, Premium World Championship Qualifier 89 | https://formatlibrary.com/decks/81492 | 39 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+1 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+1 Injection Fairy Lily
+1 Kycoo the Ghost Destroyer
+1 Mystic Swordsman LV2
+1 Ninja Grandmaster Sasuke
+1 Sangan
+1 Sinister Serpent
+1 Spirit Reaper
+3 Thunder Dragon
+1 Tribe-Infecting Virus
+1 Card Destruction
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+1 Upstart Goblin
+1 Call of the Haunted
+3 Jar of Greed
+1 Mirror Force
+1 Raigeki Break
+1 Ring of Destruction
+1 Torrential Tribute
+2 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 Giltia the D. Knight
+F 1 Humanoid Worm Drake
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 1 Twin-Headed Thunder Dragon
+S 2 Berserk Gorilla
+S 1 Chaos Sorcerer
+S 1 Cipher Soldier
+S 1 D.D. Assailant
+S 2 Dekoichi the Battlechanted Locomotive
+S 3 Dust Tornado
+S 1 Raigeki Break
+S 3 Sakuretsu Armor
+S 1 Widespread Ruin
+@ Earth Beat | T | yata88, 1st place, Premium World Championship Qualifier 79 | https://formatlibrary.com/decks/64597 | 31 tournament lists of this deck on Format Library.
+3 Berserk Gorilla
+1 Breaker the Magical Warrior
+3 D.D. Assailant
+1 Exiled Force
+3 Gigantes
+2 Goblin Attack Force
+1 Injection Fairy Lily
+2 Mataza the Zapper
+1 Delinquent Duo
+1 Enemy Controller
+1 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+1 Mage Power
+2 Mind Control
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+3 Rush Recklessly
+1 Snatch Steal
+1 United We Stand
+1 Ring of Destruction
+3 Royal Decree
+F 1 Charubin the Fire Knight
+F 1 Dark Balter the Terrible
+F 1 Dark Flare Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 3 Thousand-Eyes Restrict
+S 1 Amazoness Archer
+S 2 Gyaku-Gire Panda
+S 3 King Tiger Wanghu
+S 2 Brain Control
+S 1 Giant Trunade
+S 1 Mind Control
+S 2 Mystik Wok
+S 1 Swords of Revealing Light
+S 1 Mirror Force
+S 1 Torrential Tribute
+@ Cat OTK | T | Jlu, 1st place, Premium World Championship Qualifier #81 | https://formatlibrary.com/decks/67362 | 19 tournament lists of this deck on Format Library.
+1 Cyber-Stein
+1 D.D. Assailant
+2 Des Wombat
+1 Exiled Force
+3 Gigantes
+2 Goblin Attack Force
+2 Gyaku-Gire Panda
+1 Injection Fairy Lily
+3 Milus Radiant
+3 Rescue Cat
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+3 Last Will
+1 Mind Control
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Ring of Destruction
+1 Torrential Tribute
+3 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 1 Gatling Dragon
+F 1 Karbonala Warrior
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Amazoness Archer
+S 2 Cipher Soldier
+S 1 Cyber Jar
+S 1 Des Wombat
+S 1 Gyaku-Gire Panda
+S 1 Mass Driver
+S 1 Mind Control
+S 2 Smashing Ground
+S 1 Snatch Steal
+S 1 Swords of Revealing Light
+S 1 Mirror Force
+S 2 Royal Decree
+@ Stein Gate Turbo | T | krokodeilos, 1st place, Premium World Championship Qualifer 91 | https://formatlibrary.com/decks/84894 | 18 tournament lists of this deck on Format Library.
+1 Airknight Parshath
+1 Blowback Dragon
+1 Cannon Soldier
+2 Cyber-Stein
+1 Dark Magician of Chaos
+2 Fusilier Dragon, the Dual-Mode Beast
+1 Jinzo
+1 Brain Control
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+3 Limiter Removal
+1 Megamorph
+1 Metamorphosis
+3 Monster Gate
+1 Pot of Greed
+1 Premature Burial
+3 Reasoning
+3 Scapegoat
+1 Snatch Steal
+1 Swords of Revealing Light
+1 United We Stand
+2 Upstart Goblin
+1 Call of the Haunted
+2 Jar of Greed
+1 Ring of Destruction
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 2 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 1 Thousand-Eyes Restrict
+F 1 Twin-Headed Thunder Dragon
+S 1 Cyber Jar
+S 3 Des Koala
+S 1 Stealth Bird
+S 2 Wave-Motion Cannon
+S 1 Ceasefire
+S 1 Magic Cylinder
+S 3 Nightmare Wheel
+S 3 Secret Barrel
+@ Relinquished | T | wavment, 1st place, Goat Grand Prix Chicago 2023 | https://formatlibrary.com/decks/29228 | 17 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+2 Chaos Sorcerer
+2 Kycoo the Ghost Destroyer
+2 Magician of Faith
+3 Manju of the Ten Thousand Hands
+1 Sangan
+1 Sinister Serpent
+3 Thunder Dragon
+1 Tribe-Infecting Virus
+1 Tsukuyomi
+2 Relinquished
+1 Black Illusion Ritual
+2 Book of Moon
+1 Card Destruction
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Snatch Steal
+2 Upstart Goblin
+3 Phoenix Wing Wind Blast
+1 Ring of Destruction
+2 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Asura Priest
+S 1 Jinzo
+S 1 Skilled Dark Magician
+S 1 Zombyra the Dark
+S 1 Brain Control
+S 2 Mind Control
+S 1 Mystik Wok
+S 1 Call of the Haunted
+S 1 Dust Tornado
+S 1 Mirror Force
+S 2 Sakuretsu Armor
+S 1 Torrential Tribute
+S 1 Trap Dustshoot
+@ Flip Control | T | Gyomberman, 3rd place, Premium World Championship Qualifier 53 | https://formatlibrary.com/decks/35148 | 15 tournament lists of this deck on Format Library.
+1 Breaker the Magical Warrior
+1 Dekoichi the Battlechanted Locomotive
+3 Golem Sentry
+2 Gravekeeper's Spy
+2 Magician of Faith
+3 Mask of Darkness
+1 Sangan
+1 Sinister Serpent
+1 Spirit Reaper
+2 Tsukuyomi
+1 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Snatch Steal
+1 Swords of Revealing Light
+1 Mirror Force
+3 Nightmare Wheel
+1 Ring of Destruction
+2 Sakuretsu Armor
+3 Solemn Judgment
+1 Torrential Tribute
+3 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 2 Asura Priest
+S 1 Black Luster Soldier - Envoy of the Beginning
+S 1 Mobius the Frost Monarch
+S 1 Tribe-Infecting Virus
+S 1 Zombyra the Dark
+S 2 Creature Swap
+S 1 Heavy Storm
+S 2 Metamorphosis
+S 1 Mind Control
+S 3 Scapegoat
+@ Cat Burn | T | NB96, 2nd place, Goat Format Championship 25 | https://formatlibrary.com/decks/75475 | 11 tournament lists of this deck on Format Library.
+1 Amazoness Archer
+1 Cyber Jar
+1 Cyber-Stein
+1 D.D. Assailant
+1 Des Wombat
+1 Exiled Force
+2 Gyaku-Gire Panda
+1 Injection Fairy Lily
+3 Milus Radiant
+1 Morphing Jar
+3 Rescue Cat
+1 Sangan
+2 Enemy Controller
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+3 Last Will
+1 Metamorphosis
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+2 Scapegoat
+1 Snatch Steal
+1 Swords of Revealing Light
+1 The Big March of Animals
+1 United We Stand
+1 Call of the Haunted
+1 Ring of Destruction
+F 1 Dark Balter the Terrible
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 2 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Breaker the Magical Warrior
+S 1 Cipher Soldier
+S 1 Des Wombat
+S 2 Giant Rat
+S 2 Gigantes
+S 1 Gyaku-Gire Panda
+S 1 Tribe-Infecting Virus
+S 1 Metamorphosis
+S 2 Mind Control
+S 1 Mystical Space Typhoon
+S 1 Scapegoat
+S 1 Royal Decree
+@ Flip Warrior | T | Jesse Sincinnati, 1st place, Team Goat Format Championship 7 | https://formatlibrary.com/decks/55462 | 11 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+2 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+2 Gravekeeper's Spy
+2 Kycoo the Ghost Destroyer
+1 Magician of Faith
+1 Mystic Swordsman LV2
+1 Ninja Grandmaster Sasuke
+1 Tribe-Infecting Virus
+1 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mind Control
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+1 Call of the Haunted
+1 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+3 Solemn Judgment
+1 Torrential Tribute
+2 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 2 Thousand-Eyes Restrict
+S 2 Chaos Sorcerer
+S 1 Cipher Soldier
+S 2 Dekoichi the Battlechanted Locomotive
+S 1 Gravekeeper's Spy
+S 1 Magician of Faith
+S 1 Sangan
+S 1 Sinister Serpent
+S 3 Thunder Dragon
+S 1 Tsukuyomi
+S 2 Raigeki Break
+@ Dimension Fusion Turbo | T | kuriboh, 1st place, GFWC 2021 - Last Chance Qualifier | https://formatlibrary.com/decks/964 | 10 tournament lists of this deck on Format Library.
+3 Bazoo the Soul-Eater
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+1 Cyber Jar
+1 Dark Magician of Chaos
+3 Dekoichi the Battlechanted Locomotive
+1 Jinzo
+2 Magician of Faith
+1 Sangan
+3 Thunder Dragon
+1 Tribe-Infecting Virus
+1 Card Destruction
+1 Delinquent Duo
+3 Dimension Fusion
+1 Graceful Charity
+1 Heavy Storm
+1 Lightning Vortex
+2 Metamorphosis
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Scapegoat
+1 Snatch Steal
+1 Call of the Haunted
+1 Mirror Force
+1 Ring of Destruction
+1 Torrential Tribute
+F 2 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Flame Ghost
+F 2 Gatling Dragon
+F 1 Karbonala Warrior
+F 1 Master of Oz
+F 2 Ryu Senshi
+F 3 Thousand-Eyes Restrict
+S 2 Des Wombat
+S 2 Jowgen the Spiritualist
+S 2 King Tiger Wanghu
+S 1 Metamorphosis
+S 2 Mind Control
+S 1 Scapegoat
+S 2 Royal Decree
+S 3 Trap Dustshoot
+@ Tiger Stun | T | Gabriele Biselli, 1st place, GCI Championship Series Vol. 1 | https://formatlibrary.com/decks/24917 | 10 tournament lists of this deck on Format Library.
+3 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Exiled Force
+3 King Tiger Wanghu
+3 Kycoo the Ghost Destroyer
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Call of the Haunted
+3 Compulsory Evacuation Device
+2 Dust Tornado
+2 Light of Intervention
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+3 Solemn Judgment
+3 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 3 Dekoichi the Battlechanted Locomotive
+S 1 Don Zaloog
+S 2 Mobius the Frost Monarch
+S 1 Smashing Ground
+S 3 Bottomless Trap Hole
+S 1 Sakuretsu Armor
+S 1 Torrential Tribute
+S 3 Xing Zhen Hu
+@ Drain Burn | T | Delinkquent, 1st place, Goat Format Championship 12 | https://formatlibrary.com/decks/19982 | 10 tournament lists of this deck on Format Library.
+1 Breaker the Magical Warrior
+3 Giant Rat
+1 Morphing Jar
+3 Pyramid Turtle
+2 Ryu Kokki
+1 Sangan
+1 Graceful Charity
+2 Level Limit - Area B
+1 Pot of Greed
+3 Wave-Motion Cannon
+2 Gravity Bind
+2 Magic Jammer
+1 Mirror Force
+3 Nightmare Wheel
+1 Ring of Destruction
+3 Seven Tools of the Bandit
+3 Skill Drain
+3 Solemn Judgment
+1 Torrential Tribute
+3 Trap Dustshoot
+F 1 Black Skull Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Empress Judge
+F 1 Fusionist
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Sanwitch
+F 1 Thousand Dragon
+F 1 Thousand-Eyes Restrict
+F 1 Warrior of Tradition
+S 1 Exiled Force
+S 3 Kycoo the Ghost Destroyer
+S 1 Ryu Kokki
+S 1 Book of Life
+S 2 Creature Swap
+S 1 Delinquent Duo
+S 1 Heavy Storm
+S 1 Mystical Space Typhoon
+S 2 Nobleman of Crossout
+S 1 Premature Burial
+S 1 Snatch Steal
+@ Gearfried | T | SparkyFlary, 1st place, Format Library Championship 4 | https://formatlibrary.com/decks/2004 | 9 tournament lists of this deck on Format Library.
+2 Asura Priest
+2 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+3 Gearfried the Iron Knight
+3 King Tiger Wanghu
+1 Tribe-Infecting Virus
+2 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+2 Reinforcement of the Army
+3 Smoke Grenade of the Thief
+1 Snatch Steal
+1 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+3 Solemn Judgment
+1 Torrential Tribute
+3 Trap Dustshoot
+F 2 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 2 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 3 Thousand-Eyes Restrict
+S 3 Berserk Gorilla
+S 3 Chiron the Mage
+S 2 D.D. Assailant
+S 1 Exiled Force
+S 1 Kycoo the Ghost Destroyer
+S 2 Mystic Swordsman LV2
+S 2 Dust Tornado
+S 1 Seven Tools of the Bandit
+@ Stein Monarch | T | don't copy, 1st place, Premium World Championship Qualifier 53 | https://formatlibrary.com/decks/35138 | 8 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+1 Cyber-Stein
+1 D.D. Warrior Lady
+1 Exiled Force
+3 Gravekeeper's Spy
+1 Injection Fairy Lily
+1 Iron Blacksmith Kotetsu
+2 Magician of Faith
+2 Mataza the Zapper
+1 Sangan
+1 Tribe-Infecting Virus
+2 Zaborg the Thunder Monarch
+1 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+2 Last Will
+1 Mage Power
+2 Mind Control
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+1 United We Stand
+1 Ring of Destruction
+3 Royal Decree
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 2 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Asura Priest
+S 1 Sinister Serpent
+S 1 Tsukuyomi
+S 2 Zombyra the Dark
+S 1 Big Bang Shot
+S 2 Creature Swap
+S 2 Metamorphosis
+S 1 Mystik Wok
+S 3 Scapegoat
+S 1 Mirror Force
+@ Bazoo Return | T | Dylicious, 1st place, Digbic Dig Series 5 | https://formatlibrary.com/decks/2829 | 8 tournament lists of this deck on Format Library.
+1 Bazoo the Soul-Eater
+1 Black Luster Soldier - Envoy of the Beginning
+3 Blade Knight
+1 Breaker the Magical Warrior
+2 D.D. Assailant
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+3 Kycoo the Ghost Destroyer
+1 Ninja Grandmaster Sasuke
+1 Skilled Dark Magician
+1 Tribe-Infecting Virus
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+2 Reinforcement of the Army
+1 Snatch Steal
+1 Mirror Force
+1 Return from the Different Dimension
+1 Ring of Destruction
+3 Sakuretsu Armor
+3 Solemn Judgment
+1 Torrential Tribute
+3 Widespread Ruin
+S 1 Asura Priest
+S 1 Dark Scorpion - Cliff the Trap Remover
+S 2 King Tiger Wanghu
+S 2 Mystic Swordsman LV2
+S 2 Book of Moon
+S 2 Smashing Ground
+S 2 Dust Tornado
+S 3 Trap Dustshoot
+@ Gravekeeper | T | puy, 1st place, Patreon World Championship Qualifier 14 | https://formatlibrary.com/decks/31 | 7 tournament lists of this deck on Format Library.
+1 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+1 Gravekeeper's Assailant
+1 Gravekeeper's Spear Soldier
+2 Gravekeeper's Spy
+3 Kycoo the Ghost Destroyer
+1 Mystic Swordsman LV2
+1 Ninja Grandmaster Sasuke
+1 Tribe-Infecting Virus
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+3 Necrovalley
+2 Nobleman of Crossout
+1 Pot of Greed
+2 Reinforcement of the Army
+1 Snatch Steal
+2 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+3 Solemn Judgment
+3 Trap Dustshoot
+F 1 Thousand-Eyes Restrict
+S 1 Blade Knight
+S 1 Gravekeeper's Spy
+S 3 King Tiger Wanghu
+S 2 Mobius the Frost Monarch
+S 2 Book of Moon
+S 2 Smashing Ground
+S 1 Dust Tornado
+S 1 Sakuretsu Armor
+S 2 Widespread Ruin
+@ Economics FTK | T | Federico Cavallaro, 3rd place, GCI Championship Series Vol. 2 | https://formatlibrary.com/decks/24898 | 5 tournament lists of this deck on Format Library.
+1 Dark Magician of Chaos
+1 Toon Cannon Soldier
+1 Card Destruction
+3 Dimension Fusion
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+3 Mass Driver
+3 Monster Gate
+1 Pot of Greed
+1 Premature Burial
+3 Reasoning
+3 Scapegoat
+2 Soul Exchange
+2 Soul Release
+3 Spell Economics
+3 Spell Reproduction
+3 Toon Table of Contents
+2 Toon World
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Airknight Parshath
+S 1 Black Luster Soldier - Envoy of the Beginning
+S 3 Chaos Sorcerer
+S 1 Jinzo
+S 2 Sacred Crane
+S 1 The Creator
+S 1 Lightning Vortex
+S 2 Metamorphosis
+S 1 Mystical Space Typhoon
+S 1 Mirror Force
+S 1 Torrential Tribute
+@ Mataza Rush | T | yata88, 2nd place, Obelisk 9 | https://formatlibrary.com/decks/21406 | 5 tournament lists of this deck on Format Library.
+1 Asura Priest
+2 Berserk Gorilla
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+3 Dekoichi the Battlechanted Locomotive
+1 Exiled Force
+3 Mataza the Zapper
+1 Mystic Swordsman LV2
+3 Axe of Despair
+1 Delinquent Duo
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+1 Mage Power
+2 Mind Control
+1 Mystical Space Typhoon
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+1 United We Stand
+1 Mirror Force
+1 Ring of Destruction
+3 Sakuretsu Armor
+3 Solemn Judgment
+1 Torrential Tribute
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Asura Priest
+S 2 Cipher Soldier
+S 2 Big Bang Shot
+S 1 Enemy Controller
+S 2 Smashing Ground
+S 2 Cursed Seal of the Forbidden Spell
+S 1 Dust Tornado
+S 2 Royal Decree
+S 2 Waboku
+@ Tomato Monarch | T | A Format Library player, 2nd place, Obelisk 17 | https://formatlibrary.com/decks/21416 | 5 tournament lists of this deck on Format Library.
+2 Abyss Soldier
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+3 Gravekeeper's Spy
+3 Kycoo the Ghost Destroyer
+3 Magician of Faith
+3 Mystic Tomato
+1 Sangan
+1 Sinister Serpent
+1 Spirit Reaper
+1 Tribe-Infecting Virus
+3 Zaborg the Thunder Monarch
+2 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+2 Smashing Ground
+1 Snatch Steal
+1 Mirror Force
+1 Ring of Destruction
+3 Royal Decree
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 2 Asura Priest
+S 2 Cipher Soldier
+S 3 Mobius the Frost Monarch
+S 2 Zombyra the Dark
+S 1 Book of Moon
+S 1 Brain Control
+S 3 Mind Control
+S 1 Swords of Revealing Light
+@ Stein OTK | T | psyt, 1st place, GFWC 2024 - Last Chance Qualifier 3 | https://formatlibrary.com/decks/46040 | 5 tournament lists of this deck on Format Library.
+1 Amazoness Archer
+1 Black Luster Soldier - Envoy of the Beginning
+1 Blade Knight
+1 Byser Shock
+1 Cyber Jar
+1 Cyber-Stein
+1 Exiled Force
+1 Gear Golem the Moving Fortress
+1 Injection Fairy Lily
+1 Jinzo
+1 Morphing Jar
+1 Sangan
+1 Sinister Serpent
+1 Brain Control
+1 Emergency Provisions
+1 Enemy Controller
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+3 Last Will
+1 Level Limit - Area B
+3 Metamorphosis
+1 Pot of Greed
+1 Premature Burial
+1 Reinforcement of the Army
+3 Scapegoat
+1 Snatch Steal
+1 Swords of Revealing Light
+1 United We Stand
+1 Call of the Haunted
+1 Ring of Destruction
+1 Secret Barrel
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 1 Gatling Dragon
+F 1 Giltia the D. Knight
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 1 Thousand-Eyes Restrict
+F 1 Twin-Headed Thunder Dragon
+S 1 Cipher Soldier
+S 3 Chain Energy
+S 2 Nobleman of Crossout
+S 2 Barrel Behind the Door
+S 1 Mirror Force
+S 2 Secret Barrel
+S 3 Threatening Roar
+S 1 Torrential Tribute
+@ Library FTK | T | FayeV, 1st place, Obelisk 6 | https://formatlibrary.com/decks/20854 | 5 tournament lists of this deck on Format Library.
+1 Cyber Jar
+3 Royal Magical Library
+3 Thunder Dragon
+3 A Feather of the Phoenix
+3 Archfiend's Oath
+1 Black Pendant
+1 Card Destruction
+3 Convulsion of Nature
+3 Giant Trunade
+1 Graceful Charity
+2 Level Limit - Area B
+1 Pot of Greed
+1 Premature Burial
+3 Reload
+1 Reversal Quiz
+3 Spell Reproduction
+3 Toon Table of Contents
+2 Toon World
+2 Upstart Goblin
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 Giltia the D. Knight
+F 1 King Dragun
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Sangan
+S 1 Sinister Serpent
+S 1 Delinquent Duo
+S 1 Heavy Storm
+S 1 Lightning Vortex
+S 3 Metamorphosis
+S 1 Mystical Space Typhoon
+S 3 Scapegoat
+S 1 Snatch Steal
+S 1 Mirror Force
+S 1 Torrential Tribute
+@ Monarch | T | AlephYa2, 1st place, Goat Format Championship 18 | https://formatlibrary.com/decks/3280 | 4 tournament lists of this deck on Format Library.
+2 Abyss Soldier
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+1 Cyber-Stein
+1 D.D. Warrior Lady
+1 Dekoichi the Battlechanted Locomotive
+3 Gravekeeper's Spy
+2 Kycoo the Ghost Destroyer
+1 Magician of Faith
+1 Mobius the Frost Monarch
+1 Morphing Jar
+1 Reflect Bounder
+1 Sangan
+1 Sinister Serpent
+1 Tribe-Infecting Virus
+2 Zaborg the Thunder Monarch
+1 Book of Moon
+1 Brain Control
+2 Cold Wave
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+1 Call of the Haunted
+1 Mirror Force
+1 Ring of Destruction
+1 Torrential Tribute
+2 Trap Dustshoot
+F 1 Cyber Saurus
+F 1 Dark Balter the Terrible
+F 1 Darkfire Dragon
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 1 Gatling Dragon
+F 1 Giltia the D. Knight
+F 1 King Dragun
+F 1 Labyrinth Tank
+F 1 Master of Oz
+F 1 Metal Dragon
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 2 Thousand-Eyes Restrict
+S 2 Mobius the Frost Monarch
+S 2 Mystic Tomato
+S 1 Tsukuyomi
+S 1 Zombyra the Dark
+S 2 Book of Moon
+S 1 Brain Control
+S 1 Cold Wave
+S 1 Lightning Vortex
+S 1 Mind Control
+S 1 Swords of Revealing Light
+S 2 Royal Decree
+@ Drain Beat | T | Coach J, 3rd place, Format Library Championship 34 | https://formatlibrary.com/decks/43882 | 4 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+2 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+1 Goblin Attack Force
+1 Jirai Gumo
+2 Kycoo the Ghost Destroyer
+2 Ninja Grandmaster Sasuke
+1 Zombyra the Dark
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+2 Reinforcement of the Army
+1 Smashing Ground
+1 Snatch Steal
+2 Dust Tornado
+2 Jar of Greed
+1 Mirror Force
+1 Ring of Destruction
+2 Sakuretsu Armor
+2 Skill Drain
+3 Solemn Judgment
+2 Widespread Ruin
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Gatling Dragon
+F 3 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 3 Sanwitch
+F 2 Thousand Dragon
+F 1 Thousand-Eyes Restrict
+S 1 Chiron the Mage
+S 1 Mobius the Frost Monarch
+S 1 Mystic Swordsman LV2
+S 2 Book of Moon
+S 2 Nobleman of Extermination
+S 1 Smashing Ground
+S 2 Bottomless Trap Hole
+S 1 Compulsory Evacuation Device
+S 2 Trap Dustshoot
+S 2 Xing Zhen Hu
+@ Stall Burn | T | paoloNS, 3rd place, Format Library Championship 16 | https://formatlibrary.com/decks/2069 | 4 tournament lists of this deck on Format Library.
+2 Des Koala
+3 Giant Germ
+1 Lava Golem
+1 Morphing Jar
+3 Nimble Momonga
+1 Sangan
+1 Sinister Serpent
+2 Solar Flare Dragon
+2 Spirit Reaper
+2 Stealth Bird
+1 Tribe-Infecting Virus
+1 Graceful Charity
+2 Level Limit - Area B
+2 Messenger of Peace
+1 Pot of Greed
+1 Scapegoat
+1 Snatch Steal
+3 Wave-Motion Cannon
+3 Just Desserts
+3 Nightmare Wheel
+3 Ojama Trio
+1 Ring of Destruction
+F 2 Dark Balter the Terrible
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 2 Gatling Dragon
+F 1 Ojama King
+F 1 Ryu Senshi
+F 3 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Cyber-Stein
+S 2 Double Snare
+S 1 Messenger of Peace
+S 1 Mystical Space Typhoon
+S 1 Nobleman of Crossout
+S 2 Scapegoat
+S 3 Cursed Seal of the Forbidden Spell
+S 2 Gravity Bind
+S 2 Wall of Revealing Light
+@ Warrior Control | T | Jae Kim, 3rd place, SJC Seattle 2005 | https://formatlibrary.com/decks/4101 | 4 tournament lists of this deck on Format Library.
+1 Airknight Parshath
+1 Big Shield Gardna
+1 Black Luster Soldier - Envoy of the Beginning
+1 Blade Knight
+1 Breaker the Magical Warrior
+2 D.D. Assailant
+1 D.D. Survivor
+1 D.D. Warrior Lady
+1 Don Zaloog
+1 Exiled Force
+2 Magician of Faith
+1 Morphing Jar
+1 Sangan
+1 Sinister Serpent
+2 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Lightning Vortex
+1 My Body as a Shield
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Reinforcement of the Army
+2 Smashing Ground
+1 Snatch Steal
+1 Call of the Haunted
+2 Dust Tornado
+1 Mirror Force
+1 Mirror Wall
+1 Ring of Destruction
+1 Robbin' Goblin
+1 Torrential Tribute
+F 2 Dark Balter the Terrible
+F 2 Dark Blade the Dragon Knight
+F 2 Dark Flare Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 2 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 Giltia the D. Knight
+F 1 King Dragun
+F 2 Reaper on the Nightmare
+S 1 Des Wombat
+S 1 Legendary Jujitsu Master
+S 1 Mobius the Frost Monarch
+S 2 Mystic Swordsman LV2
+S 1 Tribe-Infecting Virus
+S 1 Tsukuyomi
+S 1 Zombyra the Dark
+S 2 Bottomless Trap Hole
+S 1 Dust Tornado
+S 2 Mind Crush
+S 2 Waboku
+@ Chaos Zombie | T | Eric Wu, 1st place, SJC Pomona 2005 | https://formatlibrary.com/decks/4107 | 4 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+1 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Kycoo the Ghost Destroyer
+2 Magician of Faith
+3 Pyramid Turtle
+1 Sangan
+1 Sinister Serpent
+2 Spirit Reaper
+1 Tribe-Infecting Virus
+2 Vampire Lord
+1 Book of Life
+2 Creature Swap
+1 Delinquent Duo
+1 Enemy Controller
+1 Graceful Charity
+1 Heavy Storm
+1 Lightning Vortex
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Scapegoat
+1 Smashing Ground
+1 Snatch Steal
+2 Bottomless Trap Hole
+1 Call of the Haunted
+1 Dust Tornado
+1 Mirror Force
+1 Ring of Destruction
+1 Torrential Tribute
+F 2 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 Giltia the D. Knight
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 2 Ryu Senshi
+F 3 Thousand-Eyes Restrict
+S 1 Airknight Parshath
+S 1 Chiron the Mage
+S 1 Jinzo
+S 2 King Tiger Wanghu
+S 1 Kycoo the Ghost Destroyer
+S 2 Mobius the Frost Monarch
+S 1 Mystic Swordsman LV2
+S 1 Book of Moon
+S 1 Metamorphosis
+S 1 Scapegoat
+S 1 Ceasefire
+S 2 Dust Tornado
+@ Soul Control | T | Simone Degiovanni, 3rd place, GCI Championship Series Vol. 8 | https://formatlibrary.com/decks/27096 | 3 tournament lists of this deck on Format Library.
+1 Abyss Soldier
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+1 Freed the Brave Wanderer
+2 Mobius the Frost Monarch
+1 Roulette Barrel
+1 Sangan
+2 Shining Angel
+1 Sinister Serpent
+2 Skilled Dark Magician
+2 Zaborg the Thunder Monarch
+2 Book of Moon
+2 Creature Swap
+1 Delinquent Duo
+1 Graceful Charity
+2 Metamorphosis
+1 Nobleman of Crossout
+1 Pot of Greed
+3 Scapegoat
+1 Snatch Steal
+3 Soul Exchange
+2 Upstart Goblin
+3 Royal Decree
+2 Solemn Judgment
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Kuriboh
+S 1 Kycoo the Ghost Destroyer
+S 2 Magician of Faith
+S 1 Tribe-Infecting Virus
+S 2 Zombyra the Dark
+S 1 Heavy Storm
+S 1 Mystical Space Typhoon
+S 1 Nobleman of Crossout
+S 2 Bottomless Trap Hole
+S 1 Mirror Force
+S 1 Ring of Destruction
+S 1 Sakuretsu Armor
+@ Tomato Control | T | Willkie, 3rd place, Goat Format Championship 3 | https://formatlibrary.com/decks/20346 | 3 tournament lists of this deck on Format Library.
+2 Abyss Soldier
+1 Asura Priest
+1 Black Luster Soldier - Envoy of the Beginning
+1 Blade Knight
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+2 Don Zaloog
+1 Exiled Force
+3 Mystic Tomato
+1 Sangan
+1 Sinister Serpent
+1 Tribe-Infecting Virus
+2 Book of Moon
+2 Creature Swap
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+2 Upstart Goblin
+1 Call of the Haunted
+1 Mirror Force
+1 Ring of Destruction
+3 Solemn Judgment
+3 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Chiron the Mage
+S 1 Cyber Jar
+S 2 Gravekeeper's Spy
+S 1 Greenkappa
+S 1 Jinzo
+S 1 Morphing Jar
+S 2 Metamorphosis
+S 3 Scapegoat
+S 1 Smashing Ground
+S 2 Seven Tools of the Bandit
+@ Clown Control | T | Apoptosis, 5th place, Premium World Championship Qualifier 70 | https://formatlibrary.com/decks/48202 | 3 tournament lists of this deck on Format Library.
+1 Breaker the Magical Warrior
+3 Dream Clown
+1 Exiled Force
+1 Golem Sentry
+1 Kycoo the Ghost Destroyer
+1 Magician of Faith
+1 Morphing Jar
+1 Protector of the Sanctuary
+1 Sasuke Samurai #4
+1 Sinister Serpent
+1 Tribe-Infecting Virus
+1 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+2 Reinforcement of the Army
+1 Snatch Steal
+3 Stumbling
+2 Upstart Goblin
+1 Call of the Haunted
+1 Desert Sunlight
+1 Jar of Greed
+1 Mirror Force
+1 Ring of Destruction
+3 Solemn Judgment
+2 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 3 Banisher of the Light
+S 1 D.D. Assailant
+S 1 Jowgen the Spiritualist
+S 1 Magician of Faith
+S 2 Book of Moon
+S 1 Lightning Vortex
+S 2 My Body as a Shield
+S 1 Dust Tornado
+S 1 Torrential Tribute
+S 1 Trap Dustshoot
+S 1 Trap Hole
+@ Jar Burn | T | PIMH, 5th place, Premium World Championship Qualifier 87 | https://formatlibrary.com/decks/76758 | 3 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+1 Cyber Jar
+3 Des Koala
+3 Magician of Faith
+1 Morphing Jar
+1 Mystic Tomato
+2 Night Assailant
+1 Sangan
+3 Thunder Dragon
+1 Tsukuyomi
+3 Book of Moon
+3 Book of Taiyou
+1 Card Destruction
+2 Giant Trunade
+1 Graceful Charity
+1 Lightning Vortex
+1 Monster Reincarnation
+1 Pot of Greed
+3 The Shallow Grave
+3 Desert Sunlight
+1 Ring of Destruction
+3 Secret Barrel
+F 1 Black Skull Dragon
+F 1 Dark Balter the Terrible
+F 1 Gaia the Dragon Champion
+F 3 Gatling Dragon
+F 1 King Dragun
+F 2 Master of Oz
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 1 Thousand Dragon
+F 3 Thousand-Eyes Restrict
+S 1 Chaos Sorcerer
+S 3 Giant Orc
+S 1 Tribe-Infecting Virus
+S 1 Delinquent Duo
+S 1 Heavy Storm
+S 1 Mind Control
+S 1 Mystical Space Typhoon
+S 2 Nobleman of Crossout
+S 1 Snatch Steal
+S 1 Mirror Force
+S 1 Royal Decree
+S 1 Torrential Tribute
+@ Stein Horus | T | angel_valentinov, 1st place, Premium World Championship Qualifier 69 | https://formatlibrary.com/decks/47097 | 2 tournament lists of this deck on Format Library.
+1 Breaker the Magical Warrior
+3 Cyber-Stein
+1 Exiled Force
+2 Giant Rat
+2 Gilasaurus
+1 Granmarg the Rock Monarch
+2 Gravekeeper's Spy
+3 Horus the Black Flame Dragon LV6
+1 Horus the Black Flame Dragon LV8
+1 Injection Fairy Lily
+1 Jinzo
+1 Sangan
+3 Cold Wave
+1 Graceful Charity
+1 Heavy Storm
+3 Last Will
+1 Mind Control
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+2 Mind Crush
+1 Royal Decree
+3 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Fiend Skull Dragon
+F 1 Flame Ghost
+F 1 Gatling Dragon
+F 3 King Dragun
+F 1 Master of Oz
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 St. Joan
+F 1 The Last Warrior from Another Planet
+F 1 Thousand-Eyes Restrict
+S 3 Berserk Gorilla
+S 1 Cyber Jar
+S 3 Zombyra the Dark
+S 3 Token Thanksgiving
+S 1 Mirror Force
+S 3 Sakuretsu Armor
+S 1 Torrential Tribute
+@ Heavy Slump | T | Giorgio Schiagno, 9th place, GCI Championship Series Vol. 10 | https://formatlibrary.com/decks/25095 | 2 tournament lists of this deck on Format Library.
+2 Abyss Soldier
+1 Cyber Jar
+2 Dekoichi the Battlechanted Locomotive
+3 Golem Sentry
+1 Morphing Jar
+3 Nightmare Penguin
+1 Penguin Soldier
+1 Sangan
+1 Sinister Serpent
+1 Tribe-Infecting Virus
+1 Tsukuyomi
+1 Book of Moon
+3 Chain Energy
+3 Giant Trunade
+1 Graceful Charity
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+3 Compulsory Evacuation Device
+1 Desert Sunlight
+3 Heavy Slump
+1 Mirror Force
+1 Ring of Destruction
+3 Solemn Judgment
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Breaker the Magical Warrior
+S 1 Exiled Force
+S 3 Giant Rat
+S 2 Mobius the Frost Monarch
+S 1 Heavy Storm
+S 1 Mystical Space Typhoon
+S 2 Mystik Wok
+S 1 Swords of Revealing Light
+S 3 Sakuretsu Armor
+@ Zombie Turbo | T | AlephYa2, 2nd place, Obelisk 24 | https://formatlibrary.com/decks/22215 | 2 tournament lists of this deck on Format Library.
+1 Breaker the Magical Warrior
+1 Despair from the Dark
+2 Gravekeeper's Spy
+1 Magician of Faith
+2 Night Assailant
+3 Pyramid Turtle
+3 Regenerating Mummy
+2 Ryu Kokki
+1 Sangan
+1 Sinister Serpent
+2 Slate Warrior
+1 Tribe-Infecting Virus
+2 Book of Life
+1 Book of Moon
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+3 Tribute to the Doomed
+1 Ring of Destruction
+3 Royal Decree
+1 Trap Dustshoot
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Kycoo the Ghost Destroyer
+S 2 Mobius the Frost Monarch
+S 2 Spell Canceller
+S 2 Zombyra the Dark
+S 1 Book of Moon
+S 1 Brain Control
+S 1 Lightning Vortex
+S 1 Mind Control
+S 1 Swords of Revealing Light
+S 1 Mirror Force
+S 1 Torrential Tribute
+S 1 Trap Dustshoot
+@ Bazoo Burn | T | Bananakin, 5th place, GCI Championship Series Vol. 9 | https://formatlibrary.com/decks/19780 | 2 tournament lists of this deck on Format Library.
+2 Bazoo the Soul-Eater
+1 Black Luster Soldier - Envoy of the Beginning
+1 Cyber Jar
+3 Des Koala
+3 Gravekeeper's Spy
+1 Morphing Jar
+1 Sangan
+3 Thunder Dragon
+1 Tribe-Infecting Virus
+1 Card Destruction
+1 Dimension Fusion
+3 Giant Trunade
+1 Graceful Charity
+1 Mind Control
+1 Nobleman of Crossout
+1 Pot of Greed
+1 Snatch Steal
+1 Ceasefire
+3 Desert Sunlight
+3 Just Desserts
+1 Mirror Force
+3 Ojama Trio
+1 Ring of Destruction
+2 Secret Barrel
+F 1 Thousand-Eyes Restrict
+S 1 Amazoness Archer
+S 1 Breaker the Magical Warrior
+S 2 Cipher Soldier
+S 3 Giant Rat
+S 1 Injection Fairy Lily
+S 1 Heavy Storm
+S 1 Mystical Space Typhoon
+S 2 Mystik Wok
+S 1 Nobleman of Crossout
+S 2 Hallowed Life Barrier
+@ Chaos Monarch | T | RuboLZ, 3rd place, DOC x SDG - Goat National Qualifier 4 | https://formatlibrary.com/decks/58664 | 2 tournament lists of this deck on Format Library.
+1 Abyss Soldier
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+1 Chaos Sorcerer
+1 Dekoichi the Battlechanted Locomotive
+2 Gravekeeper's Spy
+2 Magical Merchant
+1 Magician of Faith
+3 Peten the Dark Clown
+1 Sangan
+1 Sinister Serpent
+1 Spirit Reaper
+1 Tribe-Infecting Virus
+2 Zaborg the Thunder Monarch
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mind Control
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+1 Dust Tornado
+3 Jar of Greed
+1 Mirror Force
+1 Ring of Destruction
+3 Solemn Judgment
+1 Torrential Tribute
+1 Trap Dustshoot
+F 1 St. Joan
+S 2 Asura Priest
+S 1 Kycoo the Ghost Destroyer
+S 1 Mobius the Frost Monarch
+S 1 Big Bang Shot
+S 2 Book of Moon
+S 1 Brain Control
+S 1 Fengsheng Mirror
+S 1 Mind Control
+S 2 Mystik Wok
+S 2 Sakuretsu Armor
+S 1 Trap Dustshoot
+@ Emissary Beat | T | AlephYa2, 7th place, Goat Format Championship 16 | https://formatlibrary.com/decks/19914 | 2 tournament lists of this deck on Format Library.
+2 Dragon Zombie
+2 Abyss Soldier
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+1 Chaos Sorcerer
+1 D.D. Warrior Lady
+3 Emissary of the Afterlife
+1 Exiled Force
+1 Sangan
+3 Shining Angel
+1 Sinister Serpent
+1 Tribe-Infecting Virus
+3 Zaborg the Thunder Monarch
+1 Back to Square One
+2 Book of Moon
+1 Brain Control
+2 Creature Swap
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+1 Call of the Haunted
+2 Royal Decree
+1 Torrential Tribute
+F 1 Dark Balter the Terrible
+F 3 Gatling Dragon
+F 1 King Dragun
+F 3 Master of Oz
+F 1 Ojama King
+F 3 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Giant Soldier of Stone
+S 2 Berserk Gorilla
+S 2 Kuriboh
+S 1 Mobius the Frost Monarch
+S 2 Spell Canceller
+S 1 Giant Trunade
+S 1 Lightning Vortex
+S 1 Mass Driver
+S 1 Mind Control
+S 1 Mystik Wok
+S 1 Swords of Revealing Light
+S 1 Mirror Force
+@ Last Turn | T | Ma-Roo, 3rd place, Seven Eras Subscriber Bonanza 18 | https://formatlibrary.com/decks/79029 | 2 tournament lists of this deck on Format Library.
+1 Cyber Jar
+3 Cyber-Stein
+3 Jowgen the Spiritualist
+1 Morphing Jar
+3 Mystic Tomato
+1 Sangan
+3 Book of Moon
+1 Card Destruction
+1 Delinquent Duo
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+1 Pot of Greed
+1 Premature Burial
+3 Scapegoat
+2 Upstart Goblin
+2 Last Turn
+3 Self-Destruct Button
+3 Solemn Judgment
+3 Wall of Revealing Light
+F 1 Dark Balter the Terrible
+F 1 Dark Blade the Dragon Knight
+F 1 Darkfire Dragon
+F 1 Dragoness the Wicked Knight
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 King Dragun
+F 1 Master of Oz
+F 1 Mokey Mokey King
+F 1 Ojama King
+F 1 Reaper on the Nightmare
+F 1 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 2 Thousand-Eyes Restrict
+S 1 Catapult Turtle
+S 1 Exiled Force
+S 1 Injection Fairy Lily
+S 2 Enemy Controller
+S 2 Last Will
+S 3 Megamorph
+S 1 Mystical Space Typhoon
+S 1 Nobleman of Crossout
+S 2 Smashing Ground
+S 1 Snatch Steal
+@ Zorc Turbo | T | BLACKxSANJI, 5th place, Seven Eras Subscriber Bonanza 18 | https://formatlibrary.com/decks/79034 | 2 tournament lists of this deck on Format Library.
+1 Black Luster Soldier - Envoy of the Beginning
+1 Breaker the Magical Warrior
+2 Chaos Sorcerer
+3 Manju of the Ten Thousand Hands
+1 Sangan
+1 Senju of the Thousand Hands
+1 Sinister Serpent
+3 Thunder Dragon
+1 Tribe-Infecting Virus
+1 Tsukuyomi
+3 Dark Master - Zorc
+1 Card Destruction
+2 Contract with the Dark Master
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+2 Upstart Goblin
+1 Mirror Force
+2 Raigeki Break
+1 Ring of Destruction
+1 Solemn Judgment
+1 Torrential Tribute
+2 Trap Dustshoot
+F 2 Dark Balter the Terrible
+F 2 Dark Blade the Dragon Knight
+F 1 Dark Paladin
+F 1 Fiend Skull Dragon
+F 1 Gatling Dragon
+F 1 Master of Oz
+F 1 Ojama King
+F 2 Ryu Senshi
+F 1 The Last Warrior from Another Planet
+F 3 Thousand-Eyes Restrict
+S 1 Chaos Sorcerer
+S 3 Gravekeeper's Spy
+S 1 Kycoo the Ghost Destroyer
+S 2 Magician of Faith
+S 2 Night Assailant
+S 2 Metamorphosis
+S 2 Scapegoat
+S 2 Sakuretsu Armor
+@ Ben Kei OTK | T | srdjan1409, 2nd place, Premium World Championship Qualifier 86 | https://formatlibrary.com/decks/75162 | 2 tournament lists of this deck on Format Library.
+3 Armed Samurai - Ben Kei
+1 Cyber Jar
+3 Iron Blacksmith Kotetsu
+1 Sangan
+3 Axe of Despair
+3 Big Bang Shot
+3 Giant Trunade
+1 Graceful Charity
+1 Heavy Storm
+2 Lightning Blade
+1 Mage Power
+3 Mask of Brutality
+1 Mystical Space Typhoon
+1 Pot of Greed
+2 Reinforcement of the Army
+3 Scapegoat
+1 United We Stand
+2 Upstart Goblin
+3 Jar of Greed
+1 Reckless Greed
+1 Royal Decree
+S 3 Messenger of Peace
+S 1 Snatch Steal
+S 2 Swords of Concealing Light
+S 1 Swords of Revealing Light
+S 2 Ojama Trio
+S 1 Ring of Destruction
+S 2 Royal Decree
+S 3 Solemn Judgment
+@ Water Return | T | Dingosig, 11th place, Goat Format Championship 26 | https://formatlibrary.com/decks/86098 | 1 tournament lists of this deck on Format Library.
+2 Abyss Soldier
+2 Aqua Spirit
+1 Breaker the Magical Warrior
+1 D.D. Warrior Lady
+3 Gravekeeper's Spy
+1 Lekunga
+2 Mobius the Frost Monarch
+3 Mother Grizzly
+1 Sangan
+1 Sinister Serpent
+1 Tribe-Infecting Virus
+1 Delinquent Duo
+1 Graceful Charity
+1 Heavy Storm
+1 Mystical Space Typhoon
+2 Nobleman of Crossout
+1 Pot of Greed
+1 Premature Burial
+1 Snatch Steal
+1 Dust Tornado
+3 Jar of Greed
+1 Mirror Force
+2 Return from the Different Dimension
+1 Ring of Destruction
+3 Solemn Judgment
+1 Torrential Tribute
+1 Trap Dustshoot
+F 3 Dark Balter the Terrible
+F 3 Dark Flare Knight
+F 3 Deepsea Shark
+F 3 Humanoid Worm Drake
+F 3 Roaring Ocean Snake
+S 1 Gagagigo
+S 1 Mobius the Frost Monarch
+S 1 Serpentine Princess
+S 2 Brain Control
+S 2 Mind Control
+S 1 Mystik Wok
+S 1 Compulsory Evacuation Device
+S 2 Dust Tornado
+S 2 Sakuretsu Armor
+S 1 Seven Tools of the Bandit
+S 1 Trap Dustshoot
