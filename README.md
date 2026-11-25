@@ -2,11 +2,18 @@
 
 A free, open-source site for learning **Goat format**: Yu-Gi-Oh! as it was played in the summer of 2005, with the April 2005 banlist.
 
-Part of https://learnretro.com. Not launched yet.
+**Live site:** https://learnretro.com/goat/ (part of [Learn Retro](https://learnretro.com); the full story, credits and disclaimers are in [learn-retro](https://github.com/brawlzerygo/learn-retro)).
+
+## What's in it
+- **Learn:** a course from the basics (Step 0, Goat 101 and 201), flashcards, a glossary and a rules page.
+- **Cards:** all 1,691 Goat-legal cards and the April 2005 banlist.
+- **Decks:** 53 deck lists from goatformat.com guides and Format Library tournaments, a deck builder and matchups.
+- **Play:** a practice board. Duels against the computer are at [play.learnretro.com](https://play.learnretro.com).
 
 ## Credits
 - **Card data and images:** [YGOPRODeck](https://ygoprodeck.com) (Goat pool and banlist), stored locally, never hotlinked.
 - **Card pool, banlist and 2005 rules:** [goatformat.com](https://www.goatformat.com), the Goat community's format site.
+- **Tournament deck lists:** [Format Library](https://formatlibrary.com).
 - **Format background:** [YGOPRODeck, An Introduction to Goat Format](https://ygoprodeck.com/an-introduction-to-goat-format/).
 
 ## Disclaimer
